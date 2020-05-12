@@ -8,6 +8,7 @@
       background-color: bisque;
       display: flex;
       border: chartreuse;
+      font-display: inline;
   }
   nav {
     background-color: gold;
