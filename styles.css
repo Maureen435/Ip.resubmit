@@ -9,7 +9,6 @@
       display: flex;
       border: chartreuse;
       font-display: inline;
-      box-sizing: inherit;
   }
   nav {
     background-color: gold;
